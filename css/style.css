@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    /* background-image: url("https://tse1.mm.bing.net/th?id=OIP.1uVagO5AOy6SSekjCDOdIQHaFn&pid=Api&P=0&h=220");
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: pink;
+    text-align: center;
+    font-family: "Roboto", serif;
+}
+
+.bg-judul{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+}
+.deskripsi{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: beige;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top :5px;
+    padding-bottom:5px;
+    border-radius: 15px;
+
+
+}
+
+.hobi{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blanchedalmond;
+    margin-top: 10px;
+    margin-left:300px;
+    margin-bottom:10px;
+    margin-right: 350px;
+    border-radius:15px;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+
+.open{
+    color:brown;
+}
+
+.foto-profil{
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+table{
+    background-color: peachpuff;
+    padding-top: 5px;
+    padding-bottom:5px;
+    margin: auto;
+}
+
+ol {
+    list-style-position: inside;
+    padding-left: 0;
+    margin: auto;
+    display: inline-block;
+    text-align: left; 
+}
+
+.sosmed{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+    display: flex;
+    gap: 8px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
